@@ -9,11 +9,8 @@ The study identifies key patterns and provides insights into employee well-being
 - [Dataset](#dataset)
 - [Tools Used](#tools-used)
 - [Analysis](#analysis)
-- [Visualizations](#visualizations)
-- [How to Run](#how-to-run)
 - [Results](#results)
-- [Future Work](#future-work)
-  
+
 ---
 
 ## About the Project
@@ -48,4 +45,4 @@ Key steps:
 - Found that flexible scheduling reduced stress.  
 - Insights can guide companies in designing healthier remote policies.  
 
-- Further study insight in the portfolio: 
+  ### Further study insight in the portfolio: 
