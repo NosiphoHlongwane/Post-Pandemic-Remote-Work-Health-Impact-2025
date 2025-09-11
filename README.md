@@ -28,7 +28,7 @@ The dataset includes employee survey responses on:
 - Remote work habits  
 - Job satisfaction  
 
-Source: [Dataset extracted from Kaggle]
+Source: [Dataset extracted from Kaggle:post_pandemic_remote_work_health_impact_2025.csv]
 
 ## Tools Used
 - **R (tidyverse, ggplot2, dplyr, corrplot)** → Data analysis & visualisation
