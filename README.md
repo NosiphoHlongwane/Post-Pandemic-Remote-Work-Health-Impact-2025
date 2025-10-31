@@ -9,10 +9,6 @@ This project investigates the **impact of post-pandemic remote work on employee 
 - [Dataset](#dataset)
 - [Tools Used](#tools-used)
 - [Analysis Process](#analysis-process)
-- [Key Findings](#key-findings)
-- [Visual Highlights](#visual-highlights)
-- [Conclusion](#conclusion)
-
 ---
 
 ## About the Project
@@ -50,37 +46,4 @@ The project followed a structured workflow:
 
 ---
 
-## Key Findings
-- Employees working longer weekly hours are **more likely to experience high burnout**.  
-- Work-life balance **decreases with longer hours and higher social isolation**.  
-- Hybrid and flexible work arrangements generally **improve well-being**.  
-- Top physical health issues include **fatigue, back pain, and eye strain**.  
-- Predictive models confirm that **long hours + high isolation scores increase burnout risk**.  
-
----
-
-## Visual Highlights
-- **Age distribution by gender**  
-- **Weekly work hours by work arrangement**  
-- **Burnout levels vs weekly hours**  
-- **Work-life balance by work arrangement**  
-- **Top 10 physical health issues**  
-- **Correlation heatmap of numeric variables**  
-- **Burnout levels by work arrangement**  
-- **Work-life balance vs work hours (by mental health status)**  
-
-*(Graphs are saved as PNG files and linked in the repository for easy viewing.)*
-
----
-
-## Conclusion
-Post-pandemic remote work significantly affects employee health:  
-- Excessive hours and social isolation increase burnout and reduce work-life balance.  
-- Hybrid/flexible models improve employee well-being.  
-- Organizations can use these insights to implement **wellness programs, flexible schedules, and ergonomic support** to enhance workforce health and productivity.  
-
----
-
-**Author:** Nosipho Hlongwane  
-**Year:** 2025
 
