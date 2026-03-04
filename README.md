@@ -83,6 +83,7 @@ Burnout and work-life balance trends should be segmented by demographic group in
 
 Key finding:
 Employees working longer hours showed significantly higher burnout levels.
+![Age Distribution By Gender](r.burnout-level-vs-weekly-hours.png)
 
 **Business Insight:**
 Excessive weekly hours strongly correlate with burnout risk.
@@ -92,11 +93,14 @@ Excessive weekly hours strongly correlate with burnout risk.
 Clear trend observed:
 Higher weekly hours → Higher burnout category.
 
+![Burnout Level By Weekly Hours](r.burnout-level-vs-weekly-hours.png)
+
 This visually confirms operational overload as a primary burnout driver.
 
 **Work-Life Balance by Work Arrangement**
 
 Hybrid workers showed more balanced distributions compared to fully remote or fully on-site employees.
+![Burnout Level By Weekly Arragements](r.burnoutlevels-by-workarrangement.png)
 
 **Business Insight:**
 Hybrid work may provide structural balance between flexibility and social interaction.
