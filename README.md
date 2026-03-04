@@ -74,6 +74,7 @@ This ensured consistency and accurate modeling.
 **Age & Gender Distribution**
 
 Histogram analysis revealed workforce demographic spread and gender participation balance.
+![Age Distribution](r.age-disctribution-by-gender.png)
 
 **Business Insight:**
 Burnout and work-life balance trends should be segmented by demographic group in future HR dashboards.
