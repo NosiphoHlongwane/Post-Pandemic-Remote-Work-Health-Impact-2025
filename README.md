@@ -203,7 +203,7 @@ This model allows companies to:
 
 # Business Value
 
-This project demonstrates:
+**This project demonstrates:**
 * End-to-end data cleaning
 * Exploratory data analysis
 * Correlation insights
@@ -212,10 +212,6 @@ This project demonstrates:
 
 The aim of this analysis is to support HR strategy, workforce planning, and organisational health monitoring.
 
-**In future improvements that can be made are to:**
-1. Integrate time-series tracking
-2. Add department-level analysis
-3. Automate burnout risk scoring model
 
 
 
