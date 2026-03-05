@@ -118,7 +118,7 @@ Remote ergonomic support programs are necessary to reduce long-term health costs
 
 ## Correlation Analysis 
 A correlation matrix revealed:
-![Correlation Matrix](r.correlation-matrix.png)
+![Correlation Matrix](r,correlation-matrix.png)
 
 **Strong negative correlation between:**
 Hours Per Week and Work-Life Balance
