@@ -194,19 +194,24 @@ This model allows companies to:
 5. Predictive models can successfully estimate high burnout probability.
 
 # Strategic Recommendations
+
 **1. Implement Work Hour Monitoring**
    - Flag employees consistently exceeding healthy thresholds.
    - Introduce workload redistribution policies.
+     
 **2. Strengthen Hybrid Work Models**
    - Encourage flexible structures that maintain social interaction.
    - Design in-office collaboration days.
+     
 **3. Develop Isolation Mitigation Programs**
   - Virtual social events
   - Mentorship programs
   - Regular manager check-ins
+    
 **4. Introduce Ergonomic Support**
   - Provide home-office stipends
   - Offer posture & wellness training
+    
 **5. Build a Burnout Risk Dashboard (For BI route)**
     Use Power BI or Tableau to:
   - Track burnout risk probability
