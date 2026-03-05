@@ -118,6 +118,7 @@ Remote ergonomic support programs are necessary to reduce long-term health costs
 
 ## Correlation Analysis 
 A correlation matrix revealed:
+![Correlation Matrix](r.correlation-matrix.png)
 
 **Strong negative correlation between:**
 Hours Per Week and Work-Life Balance
@@ -146,6 +147,8 @@ Predictors:
 - Social isolation significantly reduces work-life balance scores.
 - Work arrangement influences balance outcomes.
 
+![Linear Regression](r.linearregression-wlb-vs-hpw.png)
+
 Conclusion:
 Managing workload and social connection programs improves employee satisfaction.
 
@@ -165,6 +168,8 @@ Managing workload and social connection programs improves employee satisfaction.
 - Certain work arrangements
 The predicted probability plot shows:
 - Burnout risk rises sharply beyond higher weekly hour thresholds.
+
+![Work life balance](r.predicted-probability-of-high-burnout.png)
 
 **Business Application:**
 HR teams can build early-warning dashboards using these predictors.
