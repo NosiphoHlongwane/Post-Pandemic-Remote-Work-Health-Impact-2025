@@ -212,8 +212,7 @@ This model allows companies to:
   - Provide home-office stipends
   - Offer posture & wellness training
     
-**5. Build a Burnout Risk Dashboard (For BI route)**
-    Use Power BI or Tableau to:
+**5. Build a Burnout Risk Dashboard**
   - Track burnout risk probability
   - Monitor isolation trends
   - Compare departments and regions
