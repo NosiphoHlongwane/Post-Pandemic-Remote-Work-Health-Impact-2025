@@ -113,6 +113,8 @@ Common issues included:
 - Headaches
 - Neck strain
 
+![Physical Health Issues](r.physical-health-issues.png)
+
 **Business Implication:**
 Remote ergonomic support programs are necessary to reduce long-term health costs.
 
